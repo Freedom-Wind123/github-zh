@@ -1,0 +1,15 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 构建/临时产物
+dist/
+*.log
+*.bak
+*~
+
+# 依赖（如果以后加打包流程）
+node_modules/
